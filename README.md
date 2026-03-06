@@ -58,7 +58,7 @@ streamlit run app.py
 
 Then open in browser
 
-http://localhost:8501
+[http://localhost:8501](http://localhost:8501)
 
 ## Author
 Himanshu Bisht
