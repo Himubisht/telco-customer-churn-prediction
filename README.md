@@ -65,5 +65,7 @@ Streamlit App: https://your-app-name.streamlit.app
 
 <img width="906" height="474" alt="image" src="https://github.com/user-attachments/assets/ffab4c70-ffad-4185-b399-74505fbb7db6" />
 
-## Author
+#Author
 Himanshu Bisht
+Data Analyst/ML Engineer
+
